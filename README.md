@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://github.com/heythyago/)](https://github.com/heythyago/)
 
-![HeyThyago GitHub stats](https://github-readme-stats.vercel.app/api?username=heythyagoi&show_icons=true&theme=dracula)
+![HeyThyago GitHub stats](https://github-readme-stats.vercel.app/api?username=heythyago&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso frequentemente
 
